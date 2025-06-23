@@ -1,0 +1,16 @@
+Package: gcda
+Type: Package
+Title: What the package does (short line)
+Version: 1.1
+Date: 2010-08-24
+Depends: igraph, mvtnorm, corpcor
+Author: Vincent Guillemot
+Maintainer: Vincent Guillemot <gui@ibe.med.uni-muenchen.de>
+Description: The graph Constrained Disciminant Analysis is a binary classification method
+             able to integrate the information contained into one or several graphs describing
+             the conditional independences between the variables.
+             Package developped during a PhD thesis CTCIR funded by the CEA
+             (LEFG Evry), the society ParnerChip and the "Region Ile de France".
+License: GPL 3
+LazyLoad: yes
+Packaged: 2010-10-12 17:02:47 UTC; Guillemot
